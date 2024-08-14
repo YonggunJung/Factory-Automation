@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\BarcodeReaderTest\bin\Debug\BarcodeReaderTest.exe.config
+C:\Users\admin\source\repos\BarcodeReaderTest\bin\Debug\BarcodeReaderTest.exe
+C:\Users\admin\source\repos\BarcodeReaderTest\bin\Debug\BarcodeReaderTest.pdb
+C:\Users\admin\source\repos\BarcodeReaderTest\obj\Debug\BarcodeReaderTest.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BarcodeReaderTest\obj\Debug\BarcodeReaderTest.Form1.resources
+C:\Users\admin\source\repos\BarcodeReaderTest\obj\Debug\BarcodeReaderTest.Properties.Resources.resources
+C:\Users\admin\source\repos\BarcodeReaderTest\obj\Debug\BarcodeReaderTest.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\BarcodeReaderTest\obj\Debug\BarcodeReaderTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BarcodeReaderTest\obj\Debug\BarcodeReaderTest.exe
+C:\Users\admin\source\repos\BarcodeReaderTest\obj\Debug\BarcodeReaderTest.pdb
