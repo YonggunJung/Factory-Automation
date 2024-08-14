@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\SignalLight\bin\Debug\SignalLight.exe.config
+C:\Users\admin\source\repos\SignalLight\bin\Debug\SignalLight.exe
+C:\Users\admin\source\repos\SignalLight\bin\Debug\SignalLight.pdb
+C:\Users\admin\source\repos\SignalLight\obj\Debug\SignalLight.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\SignalLight\obj\Debug\SignalLight.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\SignalLight\obj\Debug\SignalLight.exe
+C:\Users\admin\source\repos\SignalLight\obj\Debug\SignalLight.pdb
