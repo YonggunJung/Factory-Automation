@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\MxComponentTest\bin\Debug\MxComponentTest.exe.config
+C:\Users\admin\source\repos\MxComponentTest\bin\Debug\MxComponentTest.exe
+C:\Users\admin\source\repos\MxComponentTest\bin\Debug\MxComponentTest.pdb
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\Interop.ActUtlType64Lib.dll
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.csproj.ResolveComReference.cache
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.Form1.resources
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.Properties.Resources.resources
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.exe
+C:\Users\admin\source\repos\MxComponentTest\obj\Debug\MxComponentTest.pdb
